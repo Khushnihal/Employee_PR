@@ -6,6 +6,8 @@ namespace Employee_Portal.Controllers
 {
     // Hello....
 
+    // This comment added from GitHub
+
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
